@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Used to store php website configuration information.
+ * Used to store website configuration information.
  *
  * @var string
  */
